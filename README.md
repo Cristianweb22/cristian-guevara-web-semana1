@@ -1,3 +1,4 @@
 # cristian-guevara-web-semana1
-Ejercicio web Semana 1
+Ejercicio semana 1 de la clase de programacion web Icesi
 [FotoGei] 
+
